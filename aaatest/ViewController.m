@@ -16,6 +16,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    NSLog(@"这是我第一次提交git代码");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
